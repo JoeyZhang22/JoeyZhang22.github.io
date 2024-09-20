@@ -88,7 +88,7 @@ function returnInnerHTML(latestProject) {
 
 
 //More customizable approach
-let loadNumProjectPerPress = 2;
+let loadNumProjectPerPress = 1;
 
 let sorted_projects = projects.sort((a, b) => new Date(b.date) - new Date(a.date));
 
