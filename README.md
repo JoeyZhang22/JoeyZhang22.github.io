@@ -20,3 +20,13 @@ ___
 <img width="324" alt="Screenshot 2024-09-19 at 9 45 00 PM" src="https://github.com/user-attachments/assets/45392811-92e2-4308-91f5-8fa7dff5e58b">
 
 ___
+
+## ACTIVITY #3:
+
+### Repo status
+<img width="902" alt="Screenshot 2024-09-19 at 10 22 37 PM" src="https://github.com/user-attachments/assets/007b3ff6-74ad-49e3-b8f6-1697d2e42eb2">
+
+### Colour Scheme Change
+<img width="1459" alt="Screenshot 2024-09-19 at 10 20 54 PM" src="https://github.com/user-attachments/assets/563c7d0c-3ef8-4866-9f54-707841def885">
+
+___
