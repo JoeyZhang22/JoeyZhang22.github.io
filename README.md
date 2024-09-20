@@ -30,3 +30,14 @@ ___
 <img width="1459" alt="Screenshot 2024-09-19 at 10 20 54 PM" src="https://github.com/user-attachments/assets/563c7d0c-3ef8-4866-9f54-707841def885">
 
 ___
+
+## ACTIVITY #4:
+
+### Repo status
+<img width="896" alt="Screenshot 2024-09-20 at 12 30 54 AM" src="https://github.com/user-attachments/assets/63394780-c958-4df2-9c6d-e4e5ca88aa72">
+
+### Embedded Google Maps
+<img width="1469" alt="Screenshot 2024-09-20 at 12 26 45 AM" src="https://github.com/user-attachments/assets/1b524ee4-689c-431a-99c8-3d4deff21b21">
+
+___
+
