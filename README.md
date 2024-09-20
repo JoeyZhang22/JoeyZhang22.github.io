@@ -46,7 +46,8 @@ ___
 ### Repo status
 <img width="921" alt="Screenshot 2024-09-20 at 2 45 34 AM" src="https://github.com/user-attachments/assets/815e8a13-4c6c-45e4-be05-b0f8f6ddbcf9">
 
-### Dynamic Project loading function
-<img width="1231" alt="Screenshot 2024-09-20 at 2 37 43 AM" src="https://github.com/user-attachments/assets/68ffd26b-766c-4ecd-b014-8fd42e71a758">
+### Dynamic Project loading function showing top 3 projects
+<img width="1404" alt="Screenshot 2024-09-20 at 2 54 20 AM" src="https://github.com/user-attachments/assets/9412b6c3-f777-4675-a48b-d2ba68bb7100">
+
 
 
